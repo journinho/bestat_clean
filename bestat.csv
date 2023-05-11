@@ -1,0 +1,399 @@
+id,name,standard,ownerId,dataSourceId,locale,inapplicable,lastChangeDate,lastPublishDate,order,selected,note,dataSourceCitation,published
+4d3e07bc-a019-43d1-be75-27cdc34e7459,Gemeenten met de laagste werkgelegenheidsgraad van 20-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1462176359607,1463142553814,,False,,,True
+c3f2ca44-f6cb-4a32-819c-dbfda60f0108,Turbulentiegraad van btw-registraties (per arrondissement voor de laatste 12 maanden) NO SYNCHRO,True,,a2139242-040a-49b3-aed1-ac3628c7577b,nl,False,1615885616200,1619175476283,,False,"De turbulentiegraad is de verhouding, uitgedrukt in %, tussen de som van de oprichtingen en de stopzettingen van de huidige maand en het aantal btw-plichtigen van dezelfde maand van het jaar ervoor.",,True
+a9d38c56-1d35-4d18-b1cc-00a43b17dfe7,"Totale oppervlakte volgens het Kadasterregister, België, gewesten en provincies 2022",True,,8d2bc802-9b5b-4679-820c-0a7172827e13,nl,False,1668673432492,1668673787792,,False,,,True
+bec40330-335a-451f-a46d-8eaeef2bc629,"Dynamiek van de populatie ondernemingen (btw-registraties per maand, per arrondissement voor de laatste 12 maanden) NO SYNCHRO",True,,a2139242-040a-49b3-aed1-ac3628c7577b,nl,False,1615885482086,1619175476283,,False,,,True
+8bd9aa3d-bd6c-4df2-8efa-0fa87ac3daea,"Werkgelegenheidsgraad 15-64-jarigen: België, gewesten, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455708770594,1463142782129,,False,,,True
+46340035-0a04-48db-aaff-8dc8182d2382,Gemeenten met het laagste aandeel 15 tot 64 jarige inwoners,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455690006975,1463142631860,,False,,,True
+9d19ebe2-f35a-4b51-ac1a-c153e6d77d67,"Aantal actieve btw-plichtige ondernemingen volgens werknemersklasse en plaats maatschappelijke zetel, meest recente jaar",True,,a3ca8eba-26ab-4320-87ea-cac420ada915,nl,False,1447144292757,1664955568181,,False,,,True
+1c87a26b-0465-4c90-ad9c-d7419d16e99f,"Consumptieprijsindex volgens 12 groepen (COICOP), laatste 13 maanden",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1447065576576,1548845242477,,False,,,True
+40109d95-929d-4e8a-a2f7-bdbbea5c1f4f,Gemeenten waarvan de gemiddelde grootte van de particuliere huishoudens het laagst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1453816739722,1463142735381,,False,,,True
+1cfe4c47-eeed-4d4c-918a-80d21ca12f3c,Table from HC44_3 (NL),True,,4c67ecef-f933-4289-b794-155ae31e8c55,nl,False,1446817438324,1452675860958,,False,,,True
+9a97b960-08cc-4ea9-ac54-a8871a0aeb57,Table from HC46_2 (NL),True,,da1545c2-cc69-49f0-9db8-c6ea7e889b53,nl,False,1446817728431,1452676941221,,False,,,True
+1c9c2b65-f4ed-4c78-8eb5-b82a81f2c06f,Gemeenten met de minste particuliere huishoudens,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455532628002,1463142553814,,False,,,True
+ebb1c75a-bad0-4794-b5da-698c5c950103,"Mediaan prijs van de verkopen van huizen met 2 of 3 gevels (gesloten + halfopen bebouwing) per gemeente, arrondissement, provincie en gewest",True,,2a7528e9-8b3f-4ee5-ae67-8ebc33664d1f,nl,False,1683273489577,1683273838336,,False,,,True
+cbf2ed4a-30d4-4a47-b6f8-c702ccc70937,Gemeenten met het hoogste aandeel éénpersoonshuishoudens,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710566768,1463142631860,,False,,,True
+9f3cc940-56aa-43fc-b925-37db5399b622,"Aantal actieve ondernemingen, geboortes en sterftes, aantal werknemers en werkzame personen per grootteklasse – laatste jaar",True,,4d7ae78d-4a59-4a73-aa07-9b0a8fd09dc9,nl,False,1610527313139,1618822588176,,False,,,True
+8a2a1cb5-1492-49ae-96e5-772b51ab33b4,Table from HC25_5 (NL),True,,35807590-69ba-4693-aab1-f7d8bf7eda6e,nl,False,1443454620632,1452674940170,,False,,,True
+db98a0e0-3b34-4a6b-88ad-e4f562709479,"Kadastrale statistiek van het gebouwenpark, België en gewesten, bebouwde grondoppervlakte, 2022",True,,212fb19d-af30-4cb4-ad07-00ef7b53a96c,nl,False,1665553322182,1665646555138,,False,,,True
+e3ad5678-47cc-4f23-8b8c-6b72a77482f7,Table from HC25_9 (NL),True,,76c9de09-5606-4b48-a85c-69e89f297a63,nl,False,1443454620632,1452674940170,,False,,,True
+c2ed1541-34c3-46b4-baf4-7345fe2c22ce,Table from HC05 (NL),True,,7f1e3e0d-413b-4909-b65f-6376ecf852af,nl,False,1443454620632,1452605576434,,False,,,True
+8a5e7b35-c698-433a-bdf1-234e18fd92c6,Table from HC41_5 (NL),True,,4475281b-87d4-4bba-8cab-b4defa270188,nl,False,1446816670391,1452675646170,,False,,,True
+da0898ae-e335-4b3c-b147-c7029abc861a,"Omzet volgens de btw-aangiften per economische activiteit (NACE 2008), België, vanaf 2009 per trimester",True,,095cb5e3-a398-4372-8f30-3f9d96b3abd7,nl,False,1662098098650,1662105569032,,False,,,True
+cc33fcc0-70ab-4c04-b894-807ff38c1f60,Gemeenten waarvan het aandeel van de bevolking dat in het buitenland verbleef het hoogst was,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713822279,1463142735381,,False,,,True
+c9ff7761-83f9-4a24-b5e7-9ac1ff07b7ff,Table from HC06_3 (NL),True,,0e067f43-dd51-481c-9c51-4767b40ad906,nl,False,1443454620632,1452605954491,,False,,,True
+05a1f464-10b3-4a22-a2a6-171db9e1cf50,"Werkgelegenheidsgraad 20-64-jarigen : België, gewesten, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455709213330,1463142782129,,False,,,True
+a73c5f38-823c-4a7c-9286-3c5c282cdeae,"Aantal faillissementen voor België en gewesten, laatste 12 jaar",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1674119450953,1674124626567,,False,,,True
+5b734280-1864-4a70-8145-51e7b03453d2,Gemeenten met het hoogste aandeel inwoners geboren in het buitenland,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713017635,1463142591575,,False,,,True
+a79d635f-3b72-4fc8-b448-4ee30b667945,"Slachtingen van dieren per diersoort voor het Vlaams Gewest en Brussel, laatste jaar",True,,3488f928-86af-4067-92db-4fbe45c9a251,nl,True,1511272277451,1511272435577,,False,,,True
+8878e258-858b-4c9b-b89e-2010de7e15b9,"Structuur van de ondernemingen volgens grootteklasse van tewerkstelling voor de dienstensector, 2020",True,,896ba87b-6219-4428-8bd9-9e3646156c1a,nl,False,1663838671198,1663840511691,0.0,False,,,True
+c42c9c16-9330-437b-9608-13781b795ec1,"Officieel tarief van de aardolieproducten in euro, laatste wijziging",True,,7c54db88-0bbe-4cfd-a66b-b2c5ee3a668e,nl,False,1617713218512,1617796640828,,False,,,True
+1b9e219b-0387-4a70-880a-dc5eccaa244c,"Totale residerende bevolking voor België en gewesten, 2012-2022",True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655296500299,1655360058436,,False,,,True
+a5e3a76b-94d7-46a6-b644-144b3cb626d6,Gemeenten met de hoogste werkgelegenheidsgraad van 15-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455708967694,1463142504174,,False,,,True
+70b7025e-216e-4858-bd63-c63b30d73895,Gemiddelde bruto maandlonen voor voltijds tewerkgestelde werknemers volgens anciëniteit,True,,91eb75ea-9839-4b36-aa48-56ca412987b5,nl,False,1514366040496,1599556148104,,False,,,True
+ef2a5bfb-a361-47a6-b113-e3df26563404,"Officieel tarief van de aardolieproducten in euro, laatste 30 wijzigingen",True,,7c54db88-0bbe-4cfd-a66b-b2c5ee3a668e,nl,False,1617713187902,1617796640828,,False,,,True
+e5f2504b-d473-4188-99a1-433737b46de8,Table from HC09_2 (NL),True,,e8cda19f-9b86-4e79-8c89-5478232ca1a2,nl,False,1443454620632,1452614120451,,False,,,True
+aad3b1cd-7e12-4878-92c0-d7895178f990,Index van de kleinhandel - historische reeks (2006-2020) voorafgaand aan herziening,True,,d05af6ee-9d74-4c4a-8c31-940716fc0f78,nl,False,1616506169961,1616506318251,,False,Archief - oude gegevens (niet meer up to date),,True
+97e706fe-0f15-4ee1-9e5b-22e7fac20646,Gemeenten met het hoogste aandeel buitenlanders,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455711083864,1463142591575,,False,,,True
+c7c4200e-42d4-47ea-9546-3e18dc9a15a4,"Slachtingen van dieren per diersoort voor België en de gewesten, laatste 3 jaren",True,,3488f928-86af-4067-92db-4fbe45c9a251,nl,False,1457698447590,1497436412609,,False,,,True
+6f5b5cfd-beb9-4dae-b193-bc35a10934f4,"Afzetprijsindexen voor de industrie (zonder bouw) voor de binnenlandse markten, volgens gedetailleerde NACE-activiteit, laatste 13 maanden",True,,69139733-0349-4d6b-b54c-ae78cb7f6a90,nl,False,1447075324025,1619017385119,,False,,,True
+d0e39f0a-013a-4e71-b312-23ea8983e1eb,Table from HC06_1 (NL),True,,50cc471e-4608-40b0-89ed-896309735af1,nl,False,1443454620632,1452605954491,,False,,,True
+44674798-1211-4c4d-9e15-607940927baa,"Afhankelijkheidsgraad van ouderen: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455690935023,1463142363742,,False,,,True
+c845edde-5e34-4200-8e33-373f83d6bbc0,Gemeenten met de laagste afhankelijkheidsgraad van ouderen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455691419423,1463142553814,,False,,,True
+5a2deb4d-8cee-436b-9b4a-81eb403b3488,Table from HC49 (NL),True,,7e242719-bd07-45f4-b3da-0eb26daf5ff0,nl,False,1447762082477,1452677113509,,False,,,True
+1d57285d-f6bd-4343-aa71-719004eef703,Table from HC01_3 (NL),True,,57e25cc5-a72b-4844-81cd-b270ba138476,nl,False,1443454620632,1456408655562,,False,,,True
+c79b7a85-925e-4b6d-af99-5c9298d3b749,Table from HC02_3 (NL),True,,40354abc-94bf-4268-9ba3-b9e57f4451b0,nl,False,1443454620632,1452603148793,,False,,,True
+d34c4fe2-a3f3-493d-9131-44a015284e26,Table from HC54 (NL),True,,4b4f93b5-a0ba-4001-b337-bfb4b2966056,nl,False,1447762693511,1452677360879,,False,,,True
+e2ebeb3e-2443-4cf0-8ba7-20edd9f644df,Table from HC47_2 (NL),True,,b581a328-029e-4c87-8f39-33f3113fdba5,nl,False,1447761652240,1452677009378,,False,,,True
+631b4535-7a63-4695-967f-fe42238ee9af,Onderwijsniveau van de Belgische bevolking van 15-64 jaar,True,,262defc5-1607-42aa-a646-d0b4f6844d4f,nl,False,1648802119974,1648802171911,,False,,,True
+d3e7b303-5c81-472f-b623-1ac05a170570,Table from HC59 (NL),True,,0206c61f-5ead-4d97-aad1-67336f4855ac,nl,False,1447763138841,1452677360879,,False,,,True
+138e9628-d53e-410c-bd80-629842c7a542,"Aantal honderdjarigen volgens geslacht voor België en gewesten, 2012 en 2022",True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655295224964,1655360058436,,False,,,True
+f15a0714-ca56-4b38-99e0-bdc85895b39c,"Jaarlijkse inflatie in % volgens 12 groepen (COICOP), laatste 11 maanden",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1447065959858,1548845242477,,False,,,True
+a4d40a0f-1995-49a0-a371-c4765925c802,"Aandeel van de bevolking in een geregistreerd partnerschap: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696183498,1463141684903,,False,,,True
+9426b84c-440d-4211-82c5-d5a72b268eda,"Geproduceerde zuivelproducten op basis van koemelk zoals consumptiemelk, room, boter, yoghurt, desserts, poeders, kaas, ijs,… laatste 13 maanden",True,,b44b5479-46c3-40ff-ac7c-8b574e76b95f,nl,False,1545058842137,1624264871849,,False,,,True
+5a2ffe4f-b0c8-42a1-aa6d-4664be75f76e,"Aantal aangiften, som van het totaal netto belastbaar inkomen en het gemiddeld totaal netto belastbaar inkomen per aangifte, België en gewesten, inkomens 1996, 2001-2004",True,,2fea61fb-98d3-495d-9cfa-9c30a51332b9,nl,False,1461572161785,1619172853811,,False,,,True
+094e6369-f6de-4250-a37c-027b2f7bb80b,Gemeenten met het laagste aandeel inwoners in een geregistreerd partnerschap,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696418257,1463142677940,,False,,,True
+f823e7de-0c91-4c83-9eae-2fc187be8018,Table from HC12_5 (NL),True,,8b0e1f24-fb6e-47ca-b319-519ef7b7fcd2,nl,False,1443454620632,1452614377659,,False,,,True
+8d4bd7ba-5238-4140-afa1-2c75870fc436,Gemeenten waar het aandeel van de woningen in een gebouw met slechts één woning het laagst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714963133,1463142735381,,False,,,True
+d2a592a9-abf4-489b-ba77-f7b580292c6e,Table from HC38_4 (NL),True,,edba1e1b-545a-4eb9-b141-cdf4e812d089,nl,False,1446640904996,1452675489053,,False,,,True
+eccc886b-484a-46fb-9202-5c324808f5c3,Voorraad aan zuivelproducten - laatste 10 jaren,True,,5ce5369f-a140-4ca8-9283-b4c0acd8327a,nl,False,1443454620632,1591874619755,,False,,,True
+dc1866c6-0f92-41d1-8839-3d8ef8fa40ab,Gemeenten met het grootste aandeel loontrekkenden,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714018920,1463142591575,,False,,,True
+aa6ed8d5-fa01-4b45-8018-c8af8c1a5e6c,"Structuur van de ondernemingen, per sector van economische activiteit, 2020",True,,b9eca8ea-cdbe-4b07-b8ee-6928c406d146,nl,False,1663838322588,1663839243626,0.0,False,,,True
+8c9cb6a5-4d30-46f2-a5c5-17b0481adad0,"Armoederisico volgens huishoudtype voor België, 2018",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1560497998365,1560500270583,0.0,False,,,True
+f440f2da-8a9f-44b6-8bef-5e28a09a9429,Gemeenten waar het aantal woningen het hoogst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715882310,1463142735381,,False,,,True
+63cb2a2b-12ea-4fd8-8bf1-1e19516f199f,"Gemiddelde leeftijd van de bevolking: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455689341111,1463142735381,,False,,,True
+be172d5d-4f48-4620-802f-84b0b9d506a7,Gemeenten met het hoogste aandeel gehuwden,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695927881,1463142591575,,False,,,True
+dcc9d37d-e612-40c4-8435-7cafcbfdf310,"Bevolkingsdichtheid : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447836174057,1463572502693,,False,,,True
+935f4be4-22b4-413d-bcef-360e0f9be750,"Aandeel van de bevolking met een diploma van het hoger onderwijs: België, gewesten en provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455691553894,1463141684903,,False,,,True
+670952ac-6a08-4b37-b71b-a8fcbd66af4f,Gemeenten met het hoogste aandeel inwoners in een geregistreerd partnerschap,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696291022,1463142591575,,False,,,True
+5ce5cd74-63aa-4885-8765-481faffa039c,"Aandeel koppels met kinderen : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455691810118,1463141684903,,False,,,True
+e78671f0-5092-4090-999b-c80cd56453fc,"Aantal stopzettingen van btw-plichtige ondernemingen volgens economische activiteit en werknemersklasse, meest recente jaar",True,,a3ca8eba-26ab-4320-87ea-cac420ada915,nl,False,1447144450389,1664955568181,,False,,,True
+ea07572b-7fc4-40f7-af62-d20b70941e86,"De gezondheidsindex sinds 1994, volgens basisjaar, laatste 13 maanden",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1554972212545,1555487680661,,False,,,True
+b2a7e599-0bfd-4f8f-aefb-e92c5635eb87,"Gewichten van producten en diensten en bijhorende groepen per productcategorie, 5 laatste jaren",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1489584942992,1548845242477,0.0,False,,,True
+9865e3b7-c48e-4cf3-a874-941ff47b9ad2,Gemeenten met het laagste aandeel inwoners geboren in het buitenland,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713117215,1463142677940,,False,,,True
+3d916e29-52e6-4098-9186-dff814e89279,Table from HC03_3 (NL),True,,cf2b42fe-de80-4454-b93f-677d355cd7fe,nl,False,1443454620632,1452604957802,,False,,,True
+8122da1e-4c08-41dd-be89-1ada84e34ce0,Gemeenten met het laagste aandeel koppels met kinderen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455692130623,1463142677940,,False,,,True
+a16fafa3-87c5-4739-aeb7-4b93556e6f04,Table from HC23_2 (NL),True,,3acf1a4a-d44d-454c-af67-cb4a59e6cdd8,nl,False,1443454620632,1452674725147,,False,,,True
+ed4bcba6-132d-4959-8161-1b5e4497b376,Gemeenten waarvan de bevolkingsdichtheid het hoogste is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455689008991,1463142735381,,False,,,True
+f07ae827-069a-42fc-838a-c5b1577ff439,Gemeenten met het hoogste aandeel inwoners geboren buiten de EU27,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713316885,1463142591575,,False,,,True
+c7084ad5-f94a-42e2-9fc2-6578b75762ef,Verloop bruto elektriciteitsproductie 2021,True,,bb790459-518f-4947-9a46-dc6834de19c7,nl,False,1654077401543,1654082088224,,False,,,True
+917ef296-e37d-4737-8a53-b0556bedef46,Table from HC07_3 (NL),True,,cf517c81-a607-44d3-83ea-094e69b47134,nl,False,1443454620632,1452606453190,,False,,,True
+0784f5d0-d18c-4970-b5c0-5c25f1aeaa69,Table from HC60 (NL),True,,4b6ee440-d736-40d2-bf5c-53bf7c22ce3b,nl,False,1447763465437,1619172685109,,False,,,True
+8e296caf-ba0b-4730-b17c-91fd41515720,"Aandeel inwoners met de nationaliteit van een land buiten de Europese Unie: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695716274,1463141684903,,False,,,True
+053167e1-ee33-463f-babe-7f5c636e6d0d,"Aandeel van de totale bevolking dat in de loop van 2010 naar zijn huidige woning verhuisde: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713485232,1463141805708,,False,,,True
+c9bdba8f-b473-458a-84c7-19dd9fbb4168,Gemeenten met het grootste aandeel van de werkende bevolking die buiten de provincie van de woonplaats werkt,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455711647070,1463142591575,,False,,,True
+373cc0fb-a07f-48ec-8657-a32a7f7addcc,"Afzetprijsindexen voor de industrie (zonder bouw) voor de binnen- en buitenlandse markten, volgens gedetailleerde NACE-activiteit, laatste 13 maanden",True,,69139733-0349-4d6b-b54c-ae78cb7f6a90,nl,False,1443454620632,1619017385119,,False,,,True
+b677d3ed-7206-4012-bb46-164756d53df9,Table from HC01_1 (NL),True,,f4143369-95f9-4181-855a-87696fe40eba,nl,False,1443454620632,1446029593575,,False,,,True
+232435c2-40e9-4bf0-930a-e2b924e7c90e,"Gemiddelde prijzen van goederen en diensten en bijhorende groepen per productcategorie, laatste 13 maanden",True,,91fdb63f-55a3-412c-b26f-652b5b53955b,nl,False,1447067058129,1450362073575,,False,,,True
+ddd41b27-f548-46a6-8424-740752518ed7,"Structuur van de ondernemingen volgens grootteklasse van tewerkstelling voor de handel, 2020",True,,8063a38b-e6af-496f-ab4b-fc9ad37e7dd8,nl,False,1663839106219,1663840594667,0.0,False,,,True
+65c3f059-c7af-4389-a8d7-0e5554d9a231,"Consumptieprijsindexen volgens 4 groepen, algemene index zonder petroleumproducten, algemene index zonder energieproducten, laatste 13 maanden",True,,96dcf5c7-46ec-4544-a454-775c472368b3,nl,False,1447074049744,1450367053633,,False,,,True
+f51b6bf2-84cf-4f77-9c0d-b7bd00d1a7ac,"Aandeel éénpersoonshuishoudens : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447837672756,1463142403478,,False,,,True
+ff2fb2b3-7483-4f2f-bb0b-d37cfceccb90,Gemeenten met het laagste aandeel inwoners jonger dan 15 jaar,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455689739556,1463142677940,,False,,,True
+e2c599f7-fec3-40db-b883-3b9d8ef7892a,Gemeenten met het grootste aandeel zelfstandigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714371549,1463142591575,,False,,,True
+3f550846-01f3-4515-8b8f-7b4638ecc5e5,Gemeenten met de laagste werkgelegenheidsgraad van 15-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455709102170,1463142553814,,False,,,True
+91f8a512-4483-442f-81db-e185b27a1e4a,Table from HC48 (NL),True,,ada5fb74-0bfb-470c-af54-9f73344daf9c,nl,False,1447761963897,1452677113509,,False,,,True
+3801f726-fd99-4394-9b93-f0663dc6b530,Sterfte naar rechtsvorm,True,,94ecc518-2e49-402f-beb9-f8224c747b60,nl,False,1620811983298,1620812494155,,False,,,True
+1b531ceb-a5b0-41aa-b9d3-526a9fd427ce,Energie gebruiksstatistieken - Aardgas 2021,True,,0e22d3ca-1721-4f98-80a9-df41ab32e72b,nl,False,1671178166449,1671179230813,,False,,,True
+04a906f8-41d3-4d65-bb59-11efcee81368,Gemeenten met het kleinste aandeel woningen bewoond door de eigenaar,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714727503,1463142631860,,False,,,True
+ca390d34-2c4d-4e6f-b088-7fdfd7a2e409,"Index van de prijzen aan de producent van land- en tuinbouwproducten voor België, laatste 10 beschikbare maanden",True,,79a98414-d614-48d7-9bda-e221eb472a2e,nl,False,1628495844178,1628496016336,,False,,,True
+7cec74c9-fe80-4936-b30f-4744d0777a73,"Aandeel inwoners geboren in het buitenland (België uitgezonderd): België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455712880102,1463141684903,,False,,,True
+ef6ab5b0-f170-4fcc-b00d-df58ef48b5a2,"Aantal actieve btw-plichtige ondernemingen volgens economische activitet en plaats maatschappelijke zetel, meest recente jaar",True,,17ff6a79-d690-4e83-bfd6-a22a71c23785,nl,False,1447082303974,1664956232261,,False,,,True
+59152483-12da-4699-8279-c6cccd1be9e4,"Geproduceerde zuivelproducten op basis van koemelk zoals consumptiemelk, room, boter, yoghurt, desserts, poeders, kaas, ijs,… laatste 13 maanden",True,,b44b5479-46c3-40ff-ac7c-8b574e76b95f,nl,True,1446717302642,1503655716391,,False,,,True
+4cfb24d6-ad95-4abf-a399-19fb99c12683,"Aandeel van de bevolking dat in het buitenland verbleef: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713729697,1463141684903,,False,,,True
+2e1cb879-9e28-41df-a6cc-5d6eb8a788f0,Table from HC46_8 (NL),True,,688d7784-5956-45f6-8e84-1f02b1385925,nl,False,1446818400460,1452676941221,,False,,,True
+d2c2a614-87bf-4a3a-bf96-26db7e9be4af,"Aantal oprichtingen van btw-plichtige ondernemingen volgens rechtsvorm en plaats maatschappelijke zetel, meest recente jaar",True,,17ff6a79-d690-4e83-bfd6-a22a71c23785,nl,False,1447143224437,1664956232261,,False,,,True
+f5628776-4fa5-4809-b191-9ffd2704febd,Table from HC01_2 (NL),True,,5dcb4faf-859e-4aee-bdc9-9999cd27c519,nl,False,1443454620632,1452584692701,,False,,,True
+447aa270-1a6a-4681-92f9-dffec708dadf,"Investeringen volgens de btw-aangiften per economische activiteit (NACE 2008), België, 2 laatste jaren",True,,095cb5e3-a398-4372-8f30-3f9d96b3abd7,nl,False,1662098066020,1662105569032,,False,,,True
+b50af8c2-c382-402e-90c8-0755ee4e8647,"Index van de aankoopprijzen van de productiefactoren in land- en tuinbouw voor België, laatste 10 beschikbare maanden",True,,cbc32a6a-b047-47b2-b8f5-22293ca5025d,nl,False,1636365947834,1636367859642,,False,,,True
+db5487e5-41fd-4844-8e11-0dd9089b0c6f,Aantal faillissementen tot 2018 (oude gemeenten),True,,d550279e-150d-40d5-92f0-c173efcb9a2f,nl,False,1550831324544,1550831829777,,False,,,True
+538b4189-7490-4a7f-8a2b-9d2d1cdee507,Gemeenten met het kleinste aandeel loontrekkenden,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714251711,1463142631860,,False,,,True
+51bc2007-36b3-4f96-a540-823018b2dd67,Gemeenten met de laagste werkloosheidsgraad van 15-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455708523106,1463142553814,,False,,,True
+012be63b-8105-4d17-ba83-a51ceb7b459c,Gemeenten waar de gemiddelde leeftijd het laagst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710310574,1463142677940,,False,,,True
+0dade6ed-61fd-4316-84d2-1a8f4af2ef40,"Bodembezetting volgens het Kadasterregister, België, 2020",True,,b5c5eedc-95bf-4927-929e-d6395345a53a,nl,False,1621331964272,1621336026031,,False,,,True
+caa9a60e-b572-4f0b-bcbd-84c28123c584,"Armoederisico volgens arbeidssituatie voor België, 2018",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1560498009425,1560500270583,0.0,False,,,True
+fddcc0c3-42b8-4fa9-b27e-10890fdccf28,Werkgelegenheidsgraad voor de 20 - 64 jaar per geslacht en gewest,True,,262defc5-1607-42aa-a646-d0b4f6844d4f,nl,False,1524651042728,1525689651399,,False,,,True
+bc473c5a-87e9-479b-925d-0498bf63e3c4,Gemeenten met het kleinste aandeel zelfstandigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714480334,1463142631860,,False,,,True
+aed3111a-9a5f-489a-90dd-95d13216801b,"Banenverlies per economische activiteit, laatste 13 maanden",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1562318142627,1674117171099,,False,,,True
+98e7dc3d-2c97-4481-ba73-33cf5ea9b10c,"Armoederisico, België, laatste 10 jaren",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1512387024267,1560500270583,,False,,,True
+143d91c5-7ec7-479e-b9e6-0f3ebc91f4fe,Table from HC37 (NL),True,,e3841e8a-2da8-48c5-8fe8-b3194353de5d,nl,False,1448031498138,1452675430396,,False,,,True
+360b0a69-9883-4bcc-87fe-db4d0ad9eb91,Snelgroeiende bedrijven in de profitsector (groei van 10% of meer) en werkgelegenheid volgens NACE Rev.2 – laatste jaar,True,,ae436a6b-f69c-4dc1-b286-63b01da90d40,nl,False,1580221544589,1618822313435,,False,,,True
+72f736e6-6125-4bbc-aa1e-cbb72d8558b5,"Banenverlies volgens activiteit en gewest, 2022",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1674110647726,1674117171099,0.0,False,,,True
+9614e4bd-e893-4f65-8e10-0acb3e08cd92,Table from HC02_2 (NL),True,,70fcc32d-8e75-4eac-aee4-dfa8de785b13,nl,False,1443454620632,1452603148793,,False,,,True
+7bc2275a-ee97-4bfd-9b49-bdb20e8d53a4,Table from HC43 (NL),True,,64ccb2c7-832a-4b04-9331-6facbe71e98e,nl,False,1446817067782,1452675723952,,False,,,True
+57680e43-8b86-4010-88fc-07cc4181ae2c,Table from HC51 (NL),True,,011a65ac-0c67-4bd7-a3f9-2f7708e349a2,nl,False,1447762357024,1452677360879,,False,,,True
+4f8d39b4-5939-495e-8c78-568c269f1b8e,Table from HC04_3 (NL),True,,454141e1-a854-4842-b523-79c86e1404be,nl,False,1443454620632,1452605560605,,False,,,True
+eabe5370-adbf-4d30-b03e-2b4898290025,Gemeenten waarvan de bevolkingsdichtheid het laagste is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455689157392,1463142735381,,False,,,True
+7fd39d52-c0b1-4c04-9443-5fa270344fd8,Table from HC46_1 (NL),True,,684d4b09-e682-4717-8a99-ae716abcbc2f,nl,False,1446817627273,1452676941221,,False,,,True
+a3a2d427-be19-4fe1-8bdc-bf28085d58d3,Table from HC10 (NL),True,,bb7aa190-f41a-4bcc-baa8-966bf085505c,nl,False,1443454620632,1452614377659,,False,,,True
+57ce2855-8bed-4c30-a056-af958ee7832a,"Geharmoniseerde index van de consumptieprijzen volgens bijzondere aggregaties, laatste 12 maanden",True,,ca6de3b0-e6c1-4c66-8a3a-f608497d5ac5,nl,False,1564034188145,1618472841528,,False,,,True
+c5282cb6-81fc-41d1-8d87-0b5fd4fbe19f,Table from HC12_4 (NL),True,,a695b6da-6d39-4ec0-a10e-44c68b89cc24,nl,False,1443454620632,1452614377659,,False,,,True
+0e6e9c4c-e762-4c43-ad39-8e729f235f08,"Geharmoniseerde index van de consumptieprijzen en inflatie, laatste twee jaren",True,,ca6de3b0-e6c1-4c66-8a3a-f608497d5ac5,nl,False,1564034149486,1618472841528,,False,,,True
+a7a748a8-15aa-439e-8664-f024950728d7,Gemiddelde bruto maandlonen voor voltijds tewerkgestelde werknemers,True,,91eb75ea-9839-4b36-aa48-56ca412987b5,nl,False,1460452245286,1599556148104,,False,,,True
+60e67d81-3523-47cb-87de-723ca67046be,Gemeenten met de hoogste werkgelegenheidsgraad van 20-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455709310277,1463142504174,,False,,,True
+c0d567a1-9ce7-475b-8fc5-9659d0333f89,"Index van de aankoopprijzen van de productiefactoren in land- en tuinbouw voor België, laatste 6 jaar",True,,cbc32a6a-b047-47b2-b8f5-22293ca5025d,nl,False,1615197764441,1636367859642,,False,,,True
+04574b61-75ef-499f-80b2-a8ff24d30d2d,Table from HC07_1 (NL),True,,949f8596-b42d-4262-94bf-c5949ef71bbf,nl,False,1443454620632,1452606453190,,False,,,True
+81f949c1-fc20-4554-bf0d-84e8eda70dce,"Afzetprijsindexen voor de industrie (zonder bouw) voor de binnenlandse markten, deelindexen voor materiaalkosten in de bouw, laatste 13 maanden",True,,69139733-0349-4d6b-b54c-ae78cb7f6a90,nl,False,1443454620632,1456316168497,,False,,,True
+811fd98a-72db-4a30-99b6-12c338eaf167,"Aandeel van de bewoonde conventionele woningen gebouwd vóór 1919: België, de gewesten en de provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715556121,1463141782453,,False,,,True
+f1659db6-4e1c-46dd-bf17-0a99492fb23a,Table from HC12_1 (NL),True,,51f01bdd-0955-4144-8378-c460ba7d7414,nl,False,1443454620632,1452614377659,,False,,,True
+14c71538-3b61-4c8c-9d09-c11ef1dd516a,Table from HC02_1 (NL),True,,2e53514c-77dc-4608-8a0c-fab7e4369b2d,nl,False,1443454620632,1452603148793,,False,,,True
+32963d35-c749-440b-bfb5-953c56b52a4f,"Armoederisico, België, laatste zes jaren",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1456154255160,1560500270583,,False,,,True
+d1753c73-182a-4a32-8ece-663a3915ec67,Gemeenten met het grootste aandeel woningen bewoond door de eigenaar,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714652570,1463142591575,,False,,,True
+90c16f67-23de-4e38-beb3-d2a0b521a1cf,Gemeenten waarvan het aandeel van de bevolking dat in het buitenland verbleef het laagst was,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713923430,1463142735381,,False,,,True
+959e1558-fa46-4d5d-b12f-212366d4dbe7,Table from HC26 (NL),True,,d9afdc25-56eb-44d9-ba41-4127162d15c8,nl,False,1443454620632,1452675019191,,False,,,True
+4a912cfb-ef68-42fc-aa99-9d324b652d85,Zuivelproducten op basis van andere melk dan koemelk - laatste 10 jaren,True,,96ee1626-227b-4497-b54c-f18f74774415,nl,False,1443454620632,1591874619755,,False,,,True
+ca552835-6319-4825-bf78-7bc12bb09cfe,Gemeenten met het hoogste aandeel vreemdelingen met een nationaliteit van een land van de Europese Unie,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710817098,1463142591575,,False,,,True
+109e3a4e-e03b-42a9-a5a2-720b66a69ba2,"Indexcijfer van de huizenprijzen, weging van de laatste 8 jaar",True,,f1308b2b-3791-4495-ba2a-4168c50e666b,nl,False,1464354386323,1655969503820,3.0,False,,,True
+16d7e29c-d62d-45b9-a92b-8cd9bb0e8c0f,Bodemgebruik in België vanaf 1980,True,,a6d46aff-ad9a-4bab-a829-d8ab96d98173,nl,False,1663054296459,1663054679174,,False,,,True
+0c56bcab-36d6-4aa0-9d1c-da51850e7c67,Gemeenten met het laagste aandeel gehuwden,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696043433,1463142631860,,False,,,True
+8f489ab9-b7a4-414f-bd81-50f96ceba839,Gemeenten met de hoogste geslachtsverhouding,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447836450378,1463142504174,,False,,,True
+3437f59a-427d-4558-9277-463f8733ef4a,"Aantal actieve btw-plichtige ondernemingen volgens rechtsvorm en plaats maatschappelijke zetel, meest recente jaar",True,,17ff6a79-d690-4e83-bfd6-a22a71c23785,nl,False,1447082377245,1664956232261,,False,,,True
+2ada4657-a41f-4b39-bfea-94b4898b0bba,"Aandeel koppels zonder kinderen : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695062253,1463141684903,,False,,,True
+79322c7c-8b8a-4bbf-ac87-6af0f2154b9c,"Aandeel loontrekkenden: België, gewesten, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696518513,1463141684903,,False,,,True
+0859950c-50e4-4e39-acde-bc48f47215a5,"Mediaanprijs van de verkopen van gewone woonhuizen per gemeente, arrondissement, provincie en gewest, 1992, 2000, 2005, 2010, 2015, 2017 en 2018",True,,9a3c3549-08f3-4de0-8d58-f270fcd7beec,nl,False,1630936625577,1630937679407,,False,,,True
+99bade38-fb0f-48b4-894d-52a00caa51b9,"Werkgelegenheids-, werkloosheids- en activiteitsgraad per geslacht voor België en Gewesten, laatste 4 kwartalen",True,,74040495-26bf-4df2-a474-6a875cf58cb2,nl,False,1525703736777,1525703756715,0.0,False,,,True
+09de639d-668b-41fb-b8ec-eb82b3546407,Gemeenten met de grootste bevolking,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1453815316751,1463142477741,,False,,,True
+0296c87d-0133-4085-b7b7-bd52491e4a4a,Table from HC01_4 (NL),True,,f806530b-d41f-48d4-8099-e4769195d5cc,nl,False,1443454620632,1452584692701,,False,,,True
+b29a9e0b-4be5-4105-aa5c-a4bd958ccf8f,"De consumptieprijsindex sinds 1920 volgens basisjaar, laatste 13 maanden",True,,da09b8ad-46d0-4fff-9f92-b95bcb5e25d7,nl,False,1447067272647,1450362174336,,False,,,True
+613577f3-e873-4b6b-8f2b-1fa8795d7e95,Gemeenten met het laagste aandeel éénpersoonshuishoudens,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710657099,1463142677940,,False,,,True
+b894815d-1db6-4dab-8c71-d2e4b3404edc,Table from HC44_1 (NL),True,,ebdf6d54-9722-4cf8-915e-d097ea96453e,nl,False,1446817219588,1452675860958,,False,,,True
+8e5ebc9e-2d4f-4edd-a0a9-0f9f67e4a2e3,Table from HC09_3 (NL),True,,74ac225b-c5e5-4605-a93e-23a48ee7e090,nl,False,1452613955176,1452614120451,,False,,,True
+b3c5aa7c-9e74-4dae-88c7-2e834cf8a33f,"Weging van de producten en diensten voor de geharmoniseerde index van de consumptieprijzen, laatste 10 jaren",True,,ca6de3b0-e6c1-4c66-8a3a-f608497d5ac5,nl,False,1564034266900,1618472841528,,False,,,True
+47c6541a-0354-42aa-bca9-563de98e920b,Table from HC53 (NL),True,,ea68ed09-6dbd-4a33-beb6-b265e183e5bd,nl,False,1447762599919,1452677360879,,False,,,True
+484b00b2-4cf2-40b0-89ee-696a30aa4fa5,"Gemiddeld officieel tarief van de aardolieproducten in euro, laatste 24 maanden",True,,2cbb788b-2c1b-4499-af1e-2d0c99eea006,nl,False,1529323398893,1547224157247,,False,,,True
+c7cba5dc-ec2c-433c-9594-99bd8f184d0e,"Ontvangst van koemelk, hoeveelheid, vet en eiwitgehalte, laatste 9 maanden",True,,53d457c5-94e9-474f-b01b-2ecc794a5197,nl,False,1545053279833,1591874619755,,False,,,True
+e6536262-594e-495d-8b9c-f0518a92d67a,Gemeenten waar het aandeel van de bewoonde conventionele woningen gebouwd vanaf 2001 het laagst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715487273,1463142735381,,False,,,True
+c7ec8263-a3dd-4f37-a289-7854541f7c63,"Aandeel zelfstandigen: België, gewesten, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696603624,1463141855233,,False,,,True
+656a2651-d2d7-486f-8bc6-d6ab65ac6a75,"Aantal stopzettingen van btw-plichtige ondernemingen volgens rechtsvorm en plaats maatschappelijke zetel, meest recente jaar",True,,17ff6a79-d690-4e83-bfd6-a22a71c23785,nl,False,1447143170810,1664956232261,,False,,,True
+6a1ec0c6-fabb-4f32-8e94-05f0f03a3f05,"Aandeel buitenlanders: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447148219900,1463141654561,,False,,,True
+6017c6f1-d711-49cd-aa24-6c6cd910c5ad,Table from HC03_1 (NL),True,,b6edf267-726c-42a9-89b6-304ef6ae7e62,nl,False,1443454620632,1452604957802,,False,,,True
+ddc7e47e-ff34-4624-a98b-3ebebc1410d1,Table from HC28 (NL),True,,275077b5-df6e-40c6-9575-2395a87055a8,nl,False,1443454620632,1452675082821,,False,,,True
+49bd73c0-6b27-422b-a3c7-bdbdd7e8193c,"Activiteitsgraad van 15-64-jarigen: België, gewesten, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455709749287,1463142363742,,False,,,True
+e5d34be9-82c1-4191-b177-7f883e4ed6ba,Gemeenten met de laagste geslachtsverhouding,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447836600875,1463142553814,,False,,,True
+80233119-f72e-4d0c-a294-eb7d2156a806,Table from HC45 (NL),True,,fd744af4-feb4-4889-936f-0800f31df6f4,nl,False,1446817534574,1452675860958,,False,,,True
+f971f22c-86de-4f44-94e6-6c1f15032595,"Omzet volgens de btw-aangiften per economische activiteit (NACE 2008), België, 2 laatste jaren",True,,095cb5e3-a398-4372-8f30-3f9d96b3abd7,nl,False,1582895966763,1662105569032,,False,,,True
+81af2f57-4238-4824-a223-c54a3c2f9489,"Banenverlies volgens grootteklasse, laatste 13 maanden",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1560328915050,1674117171099,,False,,,True
+db7280da-00c6-48dd-bc88-99a11181d46f,Table from HC06_6 (NL),True,,9ab474b2-395f-4f3e-8601-7318f7a732bf,nl,False,1452456755105,1452605954491,,False,,,True
+3cbe2e1a-30d5-460f-a632-5f6050ab0efd,Gemeenten met het hoogste aandeel koppels zonder kinderen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695169539,1463142591575,,False,,,True
+800863d8-d5ec-40ff-9add-c42fb4cca782,"Aantal oprichtingen van btw-plichtige ondernemingen volgens economische activiteit en plaats maatschappelijke zetel, meest recente jaar",True,,17ff6a79-d690-4e83-bfd6-a22a71c23785,nl,False,1447143263397,1664956232261,,False,,,True
+50215a9c-3b03-40ef-b443-48814c646ab4,Table from HC19 (NL),True,,f7fa1111-a328-454f-95f3-6c258f522754,nl,False,1443454620632,1452674448978,,False,,,True
+e4bcf725-1708-4bb2-aa27-df1c69b010bb,Actieve onderneming naar grootteklasse van het aantal werknemers,True,,94ecc518-2e49-402f-beb9-f8224c747b60,nl,False,1620811901401,1620812494155,,False,,,True
+e2cea6ce-a456-4223-a419-2c12cce00c12,"Armoederisico bij alleenstaanden voor België, 2018",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1560498025227,1560500270583,-3.0,False,,,True
+cb4992ba-d6de-453b-bad8-6644a310c6c2,"Aandeel vreemdelingen met een nationaliteit van een land van de EU27: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1463142215227,1463142287498,,False,,,True
+8594fb2a-9b0a-4f04-8207-2e5f7fbd124d,Table from HC40 (NL),True,,2e7f72e8-d533-4cb2-aeaa-04a6de939591,nl,False,1446730490421,1452675551305,,False,,,True
+6ef93575-5e03-4c6b-9212-504b81be7995,"Aantal particuliere huishoudens : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1453816274328,1463142384158,,False,,,True
+a17a3b4b-95ea-4c82-893e-bd59863cfa90,Werkgelegenheidsgraad en werkloosheidsgraad,True,,f0487d44-2b45-427c-b2ce-890196a728c4,nl,False,1538475015054,1664284473589,0.0,False,,,True
+1d6ac3ec-16ff-4bb9-ba33-2b9ebeb547a9,Gemiddelde bruto maandlonen voor voltijds tewerkgestelde werknemers 2000-2020*,True,,91eb75ea-9839-4b36-aa48-56ca412987b5,nl,False,1664263981243,1664264026487,,False,,,True
+888900ba-d622-4eda-9d7f-94389147e2be,Gemeenten waar de gemiddelde leeftijd het hoogst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710229270,1463142677940,,False,,,True
+9090f429-32f6-40c3-a685-04cef7b6b0f1,"Aantal dode, zwaargewonde, lichtgewonde en ongedeerde slachtoffers van verkeersongevallen, voor België en de gewesten, laatste 8 jaar",True,,c60f6fc7-818f-4a23-9622-524506c6b305,nl,False,1458035553473,1619079862734,,False,,,True
+8b78b8f8-d351-4f38-92b5-28da0426ca1a,"Computerapparatuur van bedrijven per regio, meest recente jaar",True,,b24bd07e-6209-47ed-9822-4a503d5cb0e7,nl,False,1670487760407,1670488078899,,False,,,True
+36cf0462-c195-4cd8-b1ae-2add0370ec6e,"Structuur van de ondernemingen voor de groot- en detailhandel, 2020",True,,cb66951a-04b5-4c17-963c-3faf117770b9,nl,False,1663838870417,1663839039361,0.0,False,,,True
+a5f55388-f69e-447a-ab7d-c96612466f4a,"Indexcijfer van omzet voor de dienstensector (NACE 2008) volgens de btw-aangiften, laatste 5 jaren (basisjaar = 2015)",True,,1cff05d3-ed52-4892-9f30-390155f05950,nl,False,1662098210092,1662111294762,,False,,,True
+03cd07d0-3ec6-4f62-be7c-5fdc2c09a3c2,Table from HC07_2 (NL),True,,fba5a4f3-4b34-41b6-875c-84d170d102e7,nl,False,1443454620632,1452606453190,,False,,,True
+55a192c3-2f48-4b4d-b207-98b8ddbe2ffe,"Werkgelegenheids-, werkloosheids- en activiteitsgraad volgens onderwijsniveau per geslacht voor België en Gewesten",True,,262defc5-1607-42aa-a646-d0b4f6844d4f,nl,False,1549885963008,1549890653266,,False,,,True
+1e33c9bc-20f4-4699-adff-f800da946ed9,"De consumptieprijsindex volgens verschillende basisjaren, laatste 13 maanden",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1446640905867,1548845242477,,False,,,True
+9701255a-6f27-416f-85ff-dbb60051f1a3,Table from HC34 (NL),True,,e3aedf6b-289b-46bf-9512-b4b74a77c783,nl,False,1446632401312,1452675270463,,False,,,True
+22dc902e-7ba9-4a90-8f63-411fff9701b8,"Detailhandel Bruto-index en tendens, laatste 4 maanden",True,,5d3c2e37-d883-41fe-8c2f-fe8768353aa6,nl,False,1622705915817,1622706809727,,False,,,True
+65a57917-117b-442d-9585-95aff3ab19b9,Table from HC12_3 (NL),True,,443bc6a7-fc3d-4968-96e5-ed5415f86b86,nl,False,1443454620632,1452614377659,,False,,,True
+f8a0c001-dfb6-4050-bbb0-34c6c5334e98,Gemeenten waarvan de gemiddelde grootte van de particuliere huishoudens het hoogst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710108581,1463142735381,,False,,,True
+6a605953-2837-4d8e-8026-afd20aa9c1f6,Table from HC31 (NL),True,,0008f4f8-9f54-4121-b230-141324cf0829,nl,False,1443454620632,1452675150695,,False,,,True
+876acb9d-4eae-408e-93d9-88eae4ad1eaf,"Consumptieprijsindex, inflatie, gezondheidsindex, afgevlakte index, indexen zonder petroleum en energie, laatste 13 maanden",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1446639933493,1548845242477,,False,,,True
+f884a38e-9890-4283-bcb7-bdac26a2dd0b,Stopzettingsgraad van btw-registraties (per arrondissement voor de laatste 12 maanden) NO SYNCHRO,True,,a2139242-040a-49b3-aed1-ac3628c7577b,nl,False,1615885586729,1619175476283,,False,"De stopzettingsgraad is de verhouding, uitgedrukt in %, tussen het aantal stopzettingen van de huidige maand en het aantal btw-plichtigen van dezelfde maand van het jaar ervoor.",,True
+8c000d33-f325-4743-aafa-55275ef16f96,Gemeenten met het hoogste aandeel vijfenzestigplussers,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455690398110,1463142591575,,False,,,True
+2a7f7c9a-d30e-4f81-8370-02cd30317009,Table from HC55 (NL),True,,ec8ecbfc-f845-4fe7-9eac-ae36cf319ec7,nl,False,1447762775174,1452677360879,,False,,,True
+91cd667e-f22c-4e23-a3dd-9807796cba37,"Aantal faillissementen volgens activiteit en gewest, 2022",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1674110630778,1674117171099,0.0,False,,,True
+1f8738e7-50a1-457e-b67d-65303ff5d583,Slachtingen van dieren per diersoort - laatste jaar,True,,3488f928-86af-4067-92db-4fbe45c9a251,nl,False,1512556080535,1627025349062,,False,,,True
+405bce12-0e56-476e-a285-c535cb399065,Geboorte per grootteklasse van het aantal werknemers,True,,94ecc518-2e49-402f-beb9-f8224c747b60,nl,False,1620812031948,1620812494155,,False,,,True
+d5347e10-abaf-45d9-bc66-d3307acecb50,Energie gebruiksstatistieken - Hernieuwbare energie 2021,True,,0e22d3ca-1721-4f98-80a9-df41ab32e72b,nl,False,1671178310516,1671179230813,,False,,,True
+cdca21fd-2a16-44d8-ba60-7cd8f160defc,"Mediaan prijs van de verkopen van appartementen per gemeente, arrondissement, provincie en gewest",True,,2a7528e9-8b3f-4ee5-ae67-8ebc33664d1f,nl,False,1683273447869,1683273838336,,False,,,True
+ee42419f-93fc-4512-9745-c1202064dcec,"Aantal oprichtingen van btw-plichtige ondernemingen volgens economische activiteit en werknemersklasse, meest recente jaar",True,,a3ca8eba-26ab-4320-87ea-cac420ada915,nl,False,1447144582724,1664955568181,,False,,,True
+32f8d894-4e79-4f3b-9b1d-85c7f1b53062,Laatste gebruik van internet per geslacht,True,,15c7ce24-4c77-4a45-aeb8-5f96d02b3ba4,nl,False,1608202018852,1671199927466,0.0,False,,,True
+069b893a-5ccd-4180-bf1b-6ded388604fd,Gemeenten met het grootste aandeel inwoners met een nationaliteit van een land buiten de Europese Unie,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455711331485,1463142591575,,False,,,True
+032d4cb3-1e26-43a2-8b54-905ef6191369,Gemeenten waarvan het aandeel van de bevolking dat in de loop van 2010 naar zijn huidige woning verhuisde het hoogst was,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713565467,1463142735381,,False,,,True
+68357ad2-ab7e-4959-916e-1d0f36606ea3,"Gebruik van andere zuivelproducten op basis van koemelk, maandproducties per product - 13 laatste maanden",True,,2c6ac768-b5fc-46ff-a599-8a102940ccb2,nl,False,1548066048223,1591874619755,,False,,,True
+9f350f01-b2d3-4f1a-9bfb-2869ba7bd833," Aantal opgerichte, actieve en verdwenen BTW-plichtige ondernemingen volgens economische activiteit, België en gewesten, 2007",True,,54162165-69a7-41e9-9c28-b9f10172a64f,nl,False,1447082164721,1619172289230,,False,,,True
+5209396e-ed11-45d2-b873-5f45f60ebeba,"Banenverlies voor België en gewesten, laatste 12 jaar",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1674119502995,1674124626567,,False,,,True
+5525fea5-4abb-424b-918c-d5a5658b9e34,"Bevolking per geslacht en nationaliteit voor België en gewesten, 2012 en 2022",True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655296081604,1655360058436,,False,,,True
+645e9857-8fd4-478b-989a-1ed96c348a0a,Table from HC01_6 (NL),True,,cb66d618-af5a-4da9-a0bb-d59572152495,nl,False,1443454620632,1452584836932,,False,,,True
+2a61e14d-e68e-40da-b0f8-297fff2027ee,Table from HC20_3 (NL),True,,633aff87-1006-4854-98fe-8e03c07dc973,nl,False,1443454620632,1452674529884,,False,,,True
+ad535027-1e63-4eee-88cb-c271bea7e590,Maandelijkse stroom van Btw-plichtige ondernemingen volgens ondernemingstype laatste 13 maanden,True,,9465cc86-06bd-48ec-a8f5-4907385a5d0b,nl,False,1647869846314,1647945642168,,False,,,True
+77f615b9-ab4e-4f24-8b10-fe017c2dd314,Table from HC41_6 (NL),True,,64fd6100-801a-49d3-ae6d-bd00092a1d4e,nl,False,1446816790362,1452675646170,,False,,,True
+98d704f1-0a0a-40ee-8945-dd5453eddd7c,"Bodembezetting volgens het Kadasterregister, België, 2022",True,,8d2bc802-9b5b-4679-820c-0a7172827e13,nl,False,1668673399554,1668673787792,,False,,,True
+995b25fb-3eef-40b4-bb26-9c5e0690071a,Gemeenten met het kleinste aandeel inwoners met een nationaliteit van een land buiten de Europese Unie,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455711448649,1463142631860,,False,,,True
+2bd302a0-aa37-4c26-afda-1a88f3387d1e,"Computerapparatuur van bedrijven per regio en grootteklasse, laatste 4 jaar",True,,b24bd07e-6209-47ed-9822-4a503d5cb0e7,nl,False,1452453387355,1575547738695,,False,,,True
+7085852c-ee0f-4abf-a011-f87e5122049e,Gemeenten met het laagste aandeel vijfenzestigplussers,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455690749692,1463142677940,,False,,,True
+521c8e92-10cf-4b43-8711-3d973005d98c,"Detailhandel Bruto-index en tendens (gedeflateerd) , laatste 4 maanden",True,,5d3c2e37-d883-41fe-8c2f-fe8768353aa6,nl,False,1669389254914,1669389642736,,False,,,True
+da4dc0af-2143-4504-a81d-6144d193027d,Table from HC46_6 (NL),True,,09a62a03-b4d7-4627-a246-04dbcb818855,nl,False,1446818210353,1452676941221,,False,,,True
+e1f00e24-77a5-4dd5-8c79-154213abab25,"Aantal faillissementen volgens grootteklasse, laatste 13 maanden",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1560328842669,1674117171099,,False,,,True
+949dc7cc-44b7-4833-b87e-d767f8582c83,Gemeenten met het laagste aandeel buitenlanders,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455711190193,1463142631860,,False,,,True
+04705e27-ff33-4088-8d5c-ac40974e8fa3,"Aantal actieve btw-plichtige ondernemingen volgens economische activiteit en werknemersklasse, meest recente jaar",True,,a3ca8eba-26ab-4320-87ea-cac420ada915,nl,False,1537969964333,1664955568181,0.0,False,,,True
+e10ca3a9-6ee7-478e-9b5b-d2aadb36cd13,Gemeenten waar het aandeel van de bevolking met een diploma van het hoger onderwijs het grootst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455691678043,1463142735381,,False,,,True
+577e7eeb-dc77-4461-b190-9164ad1da877,"Werkgelegenheids-, werkloosheids- en activiteitsgraad per geslacht voor België en Gewesten, per kwartaal",True,,f0487d44-2b45-427c-b2ce-890196a728c4,nl,False,1525684121362,1664284473589,0.0,False,,,True
+b641b5de-5e47-432f-b6cd-d51857ca36cd,"Bevolking per geslacht en per burgerlijke staat voor België, 2012 en 2022",True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655296163928,1655360058436,,False,,,True
+0313ec83-a40f-483f-a134-4bda701a9d34,Table from HC08_3 (NL),True,,f40551e0-fcc9-459a-9969-b4c177c0f18a,nl,False,1443454620632,1452606606709,,False,,,True
+896fc494-fa50-43d7-bf7b-a88d2574e29b,"Geslachtsverhouding: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447836313021,1463142735381,,False,,,True
+d4c038a1-ba97-47c7-8ae2-9a10d929f4c1,"Consumptieprijsindexen volgens 12 groepen, laatste 13 maanden",True,,91fdb63f-55a3-412c-b26f-652b5b53955b,nl,False,1447066086562,1450362073575,,False,,,True
+f291af08-9cb5-42d0-aba4-9edd4252806d,Table from HC06_2 (NL),True,,cd4b838b-76a6-4797-ae72-079c7800abd1,nl,False,1443454620632,1452605954491,,False,,,True
+45eeed0e-6189-40db-ae21-e828b480f789,"Aandeel gehuwden : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695806659,1463141654561,,False,,,True
+805f5552-168a-4c60-bae4-12f636230ded,Table from HC08_2 (NL),True,,53a108a6-800f-4872-9555-c97cbeb29c5e,nl,False,1443454620632,1452606606709,,False,,,True
+f182be67-610f-4b05-90cb-f42f5938c448,"Totale bevolking : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447147999893,1463142782129,,False,,,True
+68c62d3c-c520-44b0-9c96-a0dff87cf460,Actieve onderneming naar rechtsvorm,True,,94ecc518-2e49-402f-beb9-f8224c747b60,nl,False,1620811753240,1637323872521,,False,,,True
+d13bc461-f478-4ebd-ad20-7a48d7fe035b,"Aandeel van de bewoonde conventionele woningen gebouwd vanaf 1991 : België, de gewesten en de provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715040441,1463141782453,,False,,,True
+9cca3f3e-e028-461e-ad34-260ac9af74c5,Gemeenten waar het aandeel van de bewoonde conventionele woningen gebouwd vanaf 1991 het laagst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715202432,1463142735381,,False,,,True
+480767ad-2150-446c-9034-df8c50b0497f,Table from HC50 (NL),True,,c6f23b1f-62cb-4443-abed-be34bffd15e3,nl,False,1447762261410,1452677113509,,False,,,True
+f88e1825-df53-43b8-b1a4-bced8f655205,"Index van de prijzen aan de producent van land- en tuinbouwproducten voor België, laatste 6 jaar",True,,79a98414-d614-48d7-9bda-e221eb472a2e,nl,False,1615197832235,1617807187628,,False,,,True
+6af8b669-9e17-4cb3-8e71-99c2236e362c,"Aantal stopzettingen van btw-plichtige ondernemingen volgens werknemersklasse en plaats maatschappelijke zetel, meest recente jaar",True,,a3ca8eba-26ab-4320-87ea-cac420ada915,nl,False,1447144507950,1664955568181,,False,,,True
+ba302df9-dfef-4511-a2ef-c36b43e27bd6,"Aandeel van de bewoonde conventionele woningen gebouwd vanaf 2001 : België, de gewesten en de provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715316708,1463141782453,,False,,,True
+9cbae079-22b2-44d1-aac6-cace3063d18d,Frequentie van het internetgebruik tijdens de laatste drie maanden,True,,7a74849e-2186-4ee8-90f9-80521455fe12,nl,False,1513160905053,1671199927466,,False,,,True
+c8db2209-a9c7-4b01-ae90-9628d71b8b3a,"Geharmoniseerde index van de consumptieprijzen en inflatie, laatste 12 maanden",True,,ca6de3b0-e6c1-4c66-8a3a-f608497d5ac5,nl,False,1564034126269,1618472841528,,False,,,True
+61d97344-b057-4a04-8cae-768e70749615,"Inflatie berekend op de geharmoniseerde index van de consumptieprijzen volgens groep producten en diensten, laatste 12 maanden",True,,ca6de3b0-e6c1-4c66-8a3a-f608497d5ac5,nl,False,1452682087136,1618472841528,,False,,,True
+74a58289-dc7e-446d-954b-a0609a6a2d9b,Table from HC32 (NL),True,,d670ccf6-6dd0-4bc7-9c83-e68e1a527cc9,nl,False,1443454620632,1452675174826,,False,,,True
+0e522c9f-899b-4893-ac2a-03bffc032cbe,Gemeenten met het hoogste aandeel inwoners geboren in een land van de Europese Unie (België uitgezonderd),True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455712711579,1463142591575,,False,,,True
+23eb5c23-9e43-4045-9690-e435838e4416,Gemeenten waarvan het aandeel van de bevolking dat in de loop van 2010 naar zijn huidige woning verhuisde het laagst was,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713648494,1463142735381,,False,,,True
+970cc107-ea33-4237-925b-d35a2f6a0cd0,"Aandeel woningen bewoond door de eigenaar: België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714570942,1463141893201,,False,,,True
+9578566f-5fb3-42e0-b9f9-ad5e6fbdd993,Gemeenten met het laagste aandeel koppels zonder kinderen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695259892,1463142677940,,False,,,True
+0939a6d7-b63e-441f-93ed-89fcf91e6bd3,"Afzetprijsindexen voor de industrie (zonder bouw) voor de binnen- en buitenlandse markten, laatste 13 maanden",True,,69139733-0349-4d6b-b54c-ae78cb7f6a90,nl,False,1510223436920,1619017385119,,False,,,True
+2bbbb960-bec5-45fb-ae4e-776ed12b1537,"Aandeel inwoners geboren buiten de EU27 (België uitgezonderd): België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713206039,1463141684903,,False,,,True
+0d2c814c-d204-43db-a843-e0097354723b,Table from HC56 (NL),True,,9a0066c0-2682-4db4-b8f7-9d4501fac8ad,nl,False,1447762853879,1452677360879,,False,,,True
+3020c6c2-5409-477a-b27f-83439245da34,Table from HC23_3 (NL),True,,b895e626-a5a6-4b8b-8885-3f5b121e3fc1,nl,False,1443454620632,1452674725147,,False,,,True
+c711621c-4fac-4ebd-95a3-2b8ac3853c50,Gemeenten met het grootste aandeel inwoners jonger dan 15 jaar,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455689631663,1463142553814,,False,,,True
+44b69928-549d-467d-9942-70349c6b2080,Table from HC12_6 (NL),True,,d63b902c-11d0-429a-b4d5-3c2bf7d59cce,nl,False,1443454620632,1452614377659,,False,,,True
+fa9b51ee-1887-43a7-8954-96a5c73425b5,"Mediaan prijs van de verkopen van huizen met 4 of meer gevels (open bebouwing) per gemeente, arrondissement, provincie en gewest",True,,2a7528e9-8b3f-4ee5-ae67-8ebc33664d1f,nl,False,1683273633801,1683273838336,,False,,,True
+413a3ef5-6837-4888-9a25-e17c59c750c2,Table from HC41_2 (NL),True,,fcab863b-866f-4c72-ad6f-36ebe90b0ba9,nl,False,1446816568570,1452675646170,,False,,,True
+6a5723c8-da47-4287-8bba-e957fe270079,Table from HC04_1 (NL),True,,2d8cdd1d-9dca-4b53-8f2e-7fc20fe9902e,nl,False,1443454620632,1452605560605,,False,,,True
+1db15530-5219-4ead-9005-417ab5f7c5c8,Bodemgebruik in België vanaf 1990,True,,a6d46aff-ad9a-4bab-a829-d8ab96d98173,nl,False,1663054320820,1663054679174,,False,,,True
+2386c092-91a3-4a4e-8533-149411d4858a,"Verkeersongevallen met doden en gewonden, voor België en de gewesten, laatste 8 jaar",True,,61145306-42cf-4eb4-b41e-bb4aa9f030e1,nl,False,1458037541689,1619079388419,,False,,,True
+2059c562-0172-475c-bd9e-5ebfabbe3e8e,Table from HC42 (NL),True,,0488a07d-70b8-49f4-9299-58e218bd7126,nl,False,1446816959836,1452675681324,,False,,,True
+c621d097-cf63-4421-9e5c-fc6a65b6efb3,Gemeenten met de laagste activiteitsgraad van 15-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455709965183,1463142553814,,False,,,True
+e92e6eac-3475-4880-b6cd-f3b94475cf3b,Table from HC58 (NL),True,,fd5ae7a3-8861-4486-aa18-646ec6a4209d,nl,False,1447763036125,1452677360879,,False,,,True
+5fee32f5-29b0-40df-9fb9-af43d1ac9032,"Bevolking per geslacht en leeftijdsgroep voor België, 2012-2022",True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655295945981,1655360058436,,False,,,True
+55dfa62a-7476-4254-b707-74c9aa4a8100,Table from HC25_2 (NL),True,,c7c3e489-859e-4e14-ba2f-9bdba56de11f,nl,False,1443454620632,1452674940170,,False,,,True
+cf08f124-74c5-470d-9edc-6872a9706f63,Table from HC36 (NL),True,,fb954e51-4924-4ea5-b1bd-e54ccae568b1,nl,False,1446633638585,1452675396597,,False,,,True
+153419f6-1bab-4e55-b990-940251a6c8d2,Table from HC38_3 (NL),True,,52a55d4a-e2a1-4f74-8af0-51ef90b7f969,nl,False,1446640650585,1452675489053,,False,,,True
+e99eb1ca-ad2f-4fa2-9334-5110398df46c,Gemeenten met het laagste aandeel vreemdelingen met een nationaliteit van een land van de Europese Unie,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710930211,1463142677940,,False,,,True
+1651805e-490b-43c8-b90e-2c146f882bfd,"Actieve onderneming naar grootteklasse van het aantal werknemers, laatste jaar",True,,94ecc518-2e49-402f-beb9-f8224c747b60,nl,False,1620811799526,1620812494155,,False,,,True
+1185f4af-1796-47be-828a-d47d28bb8624,Table from HC47_3 (NL),True,,0c959a48-73e7-4d9c-9673-363b85493817,nl,False,1447761775414,1452677009378,,False,,,True
+45fb05c0-8cef-430f-9ed2-adcfea4933a3,Gemeenten met het laagste aandeel inwoners geboren buiten de EU27,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455713409484,1463142677940,,False,,,True
+62f28177-c51a-403c-8b64-a7531ea0895b,Table from HC21 (NL),True,,dbe1627a-ed7d-4b91-8580-37c7cef584ff,nl,False,1443454620632,1452674673411,,False,,,True
+97473874-654e-45b5-9f77-96967bebc0f0,Gemeenten waar het aandeel van de bewoonde conventionele woningen gebouwd vanaf 1991 het hoogst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715125188,1463142735381,,False,,,True
+7daec429-0b1c-4ef8-b630-17dfd565659b,Table from HC24_1 (NL),True,,f6f5baff-abe8-4073-b962-b2a159b1fac0,nl,False,1443454620632,1452701001445,,False,,,True
+6077dab9-47e8-468f-a53a-5237fa0673d6,"Kadastrale statistiek van het gebouwenpark, België en gewesten, 2022",True,,212fb19d-af30-4cb4-ad07-00ef7b53a96c,nl,False,1665553304710,1665646555138,,False,,,True
+e30ee34d-a407-44e5-9b89-9ce7b228d89b,"Gemiddelde grootte van particuliere huishoudens : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1453816629384,1463142735381,,False,,,True
+e8ce66e8-d75f-4dae-b0d9-b7720dd96be0,Energie gebruiksstatistieken - Elektriciteit 2021,True,,0e22d3ca-1721-4f98-80a9-df41ab32e72b,nl,False,1671178233222,1671179230813,,False,,,True
+3a4cfb82-0c67-4f97-94f3-58b2509763ab,"Gemiddeld officieel tarief van de aardolieproducten in euro, laatste 8 jaar",True,,2cbb788b-2c1b-4499-af1e-2d0c99eea006,nl,False,1529323318758,1547224157247,0.0,False,,,True
+497146c7-264a-419f-a006-baa925a9322d,Gemeenten waar het aantal woningen het laagst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715959346,1463142735381,,False,,,True
+0464e37a-da54-440a-a3e0-10f6b45b635a,"Fiscale inkomens, België en de gewesten, laatste 7 jaren",True,,b394aa82-5045-4483-9e79-cd5344651791,nl,False,1666853979546,1666858914851,0.0,False,,,True
+cf463283-0d86-4ffb-81ba-f5759a75ac52,"Indexcijfer van de huizenprijzen, Inflatie laatste 2 jaar",True,,f1308b2b-3791-4495-ba2a-4168c50e666b,nl,False,1472112669210,1655969503820,2.0,False,,,True
+6e3a5155-a20c-4d3d-8003-a61b236d08c8,Sterfte volgens grootteklasse van het aantal werknemers,True,,94ecc518-2e49-402f-beb9-f8224c747b60,nl,False,1620811951097,1620812494155,,False,,,True
+3c79b770-eb07-4a6b-ae88-8eaa0b5b5ca1,Table from HC47_4 (NL),True,,c3aeec22-0d25-4656-8e53-82df2fd2b0ee,nl,False,1447761880446,1452677009378,,False,,,True
+a8765353-beac-4eb9-ad76-d854b594e623,Evolutie van het aantal actieve BTW-plichtige ondernemingen volgens economische activiteit (2003-2007),True,,54162165-69a7-41e9-9c28-b9f10172a64f,nl,False,1443454620632,1619172289230,,False,,,True
+e6cf8d58-df7e-4fff-a1c9-487472db4ddc,Table from HC06_4 (NL),True,,0370cefc-7d4b-4c32-ba30-76a27d404925,nl,False,1443454620632,1452605954491,,False,,,True
+467b87b9-c0ab-4508-9f3d-5e0b92848264,"Aantal woningen: België, de gewesten en de provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715792246,1463142384158,,False,,,True
+6b32b324-c872-47e7-a543-aefd84386db8,Slachtingen van dieren per diersoort voor België laatste jaar,True,,3488f928-86af-4067-92db-4fbe45c9a251,nl,False,1511272126991,1511272435577,,False,,,True
+85c773d0-06ed-4e02-9e91-87124e2684d6,"Aantal stopzettingen van btw-plichtige ondernemingen volgens economische activiteit en plaats maatschappelijke zetel, meest recente jaar",True,,17ff6a79-d690-4e83-bfd6-a22a71c23785,nl,False,1447143103992,1664956232261,,False,,,True
+846eb90e-e059-450a-9bbe-f188e569eaa7,Table from HC46_9 (NL),True,,26285e24-80bb-4b29-82ce-11612d47fcab,nl,False,1446818478631,1452676941221,,False,,,True
+f073b21f-7e3b-4d0d-b3d3-8f0493b9ab79,Energie gebruiksstatistieken - Aardolie en aardolieproducten 2021,True,,0e22d3ca-1721-4f98-80a9-df41ab32e72b,nl,False,1671178197785,1671179230813,,False,,,True
+34b4bd09-052b-49e0-84f9-eb81773f08a2,"Totale oppervlakte volgens het Kadasterregister, België, gewesten en provincies 2020",True,,b5c5eedc-95bf-4927-929e-d6395345a53a,nl,False,1621337449702,1621337848530,,False,,,True
+1331ef3b-456f-4fb6-81dd-05adc2f13d8d,"Werkgelegenheids-, werkloosheids- en activiteitsgraad per geslacht voor België en Gewesten",True,,262defc5-1607-42aa-a646-d0b4f6844d4f,nl,False,1549885620416,1549890653266,,False,,,True
+5bf5a65f-5632-4047-b4f6-14e8af49f958,Gemeenten met het laagste aandeel éénoudergezinnen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695585809,1463142677940,,False,,,True
+aeb45f6f-907a-4e90-b8a9-2afe6a172a9d,"Structuur van de ondernemingen voor de dienstensector, 2020",True,,401fd7fc-ad29-4f18-b537-e7d92ce3ab52,nl,False,1663838412091,1663840324081,0.0,False,,,True
+cec4cc1e-fcb0-43f3-b597-f154f41128be,Table from HC03_2 (NL),True,,41383fbf-9c73-40de-a90c-8e91026f72ea,nl,False,1443454620632,1452604957802,,False,,,True
+27e1673c-1f09-42ca-b417-c1c871724c07,Table from HC38_1 (NL),True,,48582d4d-aeff-4239-a557-8fe1a40e27fc,nl,False,1446640193917,1452675489053,,False,,,True
+175db5bd-e1f4-4900-9699-53918dc29f26,Table from HC44_2 (NL),True,,b4437c21-f8e4-4c4b-b515-3595f7fa2ec1,nl,False,1446817324671,1452675860958,,False,,,True
+ab65b776-a783-4e26-a4e6-6e34b5ae4730,"Aandeel 15 tot 64 jarigen : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1447148169165,1463141654561,,False,,,True
+148c95c6-910c-437b-8983-54c227d31468,"Mediaanprijs van de verkopen van appartementen per gemeente, arrondissement, provincie en gewest, 1992, 2000, 2005, 2010, 2015, 2017 en 2018",True,,9a3c3549-08f3-4de0-8d58-f270fcd7beec,nl,False,1630936836111,1630937679407,,False,,,True
+09be1030-bb65-442f-bc91-7055f77520e7,Energie gebruiksstatistieken - Vaste fossiele brandstoffen en afgeleide gassen 2021,True,,0e22d3ca-1721-4f98-80a9-df41ab32e72b,nl,False,1671178349377,1671179230813,,False,,,True
+ba8f2d7a-72c2-4472-8dcc-c7ca5546a073,Table from HC09_1 (NL),True,,bcdfce63-bbdb-4752-a580-6988d9360212,nl,False,1443454620632,1452614120451,,False,,,True
+995f247d-b928-4333-ae9e-048c832e807d,Table from HC25_4 (NL),True,,20bf938e-a81b-4258-a53f-f7be81cdc524,nl,False,1443454620632,1452674940170,,False,,,True
+586c93f5-afe5-4c3b-9f23-12b062efb939,"Aandeel van de woningen in een gebouw met slechts één woning: België, de gewesten en de provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714806018,1463141805708,,False,,,True
+fd9d30b7-52fb-4ac9-b992-824389b7416d,Table from HC06_5 (NL),True,,54dbd928-a660-417c-80d0-a585ef5113ef,nl,False,1443454620632,1452605954491,,False,,,True
+0920af95-044b-4efc-96ba-094eca8a976b,Table from HC04_2 (NL),True,,dcc309e1-a571-42b8-9105-da1bde2fa4a1,nl,False,1443454620632,1452605560605,,False,,,True
+7a21a5a0-26dc-443b-a961-1dc7859fea4b,Gemeenten met het hoogste aandeel koppels met kinderen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455692009384,1463142591575,,False,,,True
+42b3fcf5-687a-48aa-8483-f85c89779ce5,Oprichtingsgraad van btw-registraties (per arrondissement voor de laatste 12 maanden) NO SYNCHRO,True,,a2139242-040a-49b3-aed1-ac3628c7577b,nl,False,1615885538661,1619175476283,,False,"De oprichtingsgraad is de verhouding, uitgedrukt in %, tussen het aantal oprichtingen van de huidige maand en het aantal btw-plichtigen van dezelfde maand van het jaar ervoor.",,True
+1a1fe304-42dc-45ba-af24-d0d98d70a2eb,"Btw-plichtige ondernemingen, demografisch verloop per sector",True,,9465cc86-06bd-48ec-a8f5-4907385a5d0b,nl,False,1647945502317,1647945642168,,False,,,True
+df813d2a-96f6-40e3-b54c-1e132a6bfc28,"Mediaaanprijs van de verkopen van gewone woonhuizen, villa’s, appartementen,... per gemeente, arrondissement, provincie en gewest, 1992, 2000, 2005, 2010, 2015, 2017 en 2018",True,,9a3c3549-08f3-4de0-8d58-f270fcd7beec,nl,True,1538060323480,1538060959406,0.0,False,Cijfers vanaf 2015 zijn voorlopig,,True
+f92c2519-c8c7-433e-b837-3210a652ad9d,Table from HC38_2 (NL),True,,d34b8c59-2ee2-4924-b834-55df6e3d3d16,nl,False,1446640464135,1452675489053,,False,,,True
+26a1bd31-9eb7-41a4-a3bc-5f4d544b7a5f,"Geharmoniseerde index (CICP, 2005 = 100), laatste 13 maanden",True,,96dcf5c7-46ec-4544-a454-775c472368b3,nl,False,1447074182730,1450367053633,,False,,,True
+ec1309b7-4de9-4dde-b89e-5dd8f8a70edd,"Indexcijfer van de huizenprijzen, index van de laatste 2 jaar",True,,f1308b2b-3791-4495-ba2a-4168c50e666b,nl,False,1464354400054,1655969503820,1.0,False,,,True
+6a3ad9d2-e9ce-4fe1-86a2-8e4165a486eb,Table from HC27 (NL),True,,6e364931-d381-4b9d-81bc-944f27d099ab,nl,False,1443454620632,1452675082821,,False,,,True
+0a4ce814-ee73-4f9f-8653-c168a128ea14,Table from HC01_5 (NL),True,,bbc00068-bfe2-42e2-bdf9-489eec24cfbe,nl,False,1443454620632,1452584836932,,False,,,True
+4bbd7cd3-c641-45ff-b614-b1e3e405d96f,Table from HC33_2 (NL),True,,67a15412-0569-43bd-82bf-5c37731e80bd,nl,False,1443454620632,1452675244776,,False,,,True
+b012c3de-ff03-4c7f-a023-ac1be0aba215,Table from HC41_1 (NL),True,,cd0f7cda-649e-47b3-879e-5bf753afb7f3,nl,False,1446816465109,1452675646170,,False,,,True
+47672f4b-3de4-408f-a1bd-ef28a1fe7c91,"Bevolking per geslacht, leeftijdsgroep en per burgerlijke staat voor België en gewesten, 2022",True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655296253172,1655360058436,,False,,,True
+57e420bc-0d80-4b98-a50a-54a9c6fe4023,Table from HC11 (NL),True,,ab5a0159-26a8-47d2-86f9-be43af33eb86,nl,False,1443454620632,1452614377659,,False,,,True
+20b4206e-d104-47fa-8a36-b9aeace70ed8,"Afzetprijsindexen voor de industrie (zonder bouw) voor de binnenlandse markten, laatste 13 maanden ",True,,69139733-0349-4d6b-b54c-ae78cb7f6a90,nl,False,1443454620632,1619017385119,,False,,,True
+d4df25b9-41e5-4c1e-b705-92ddc48143c5,Gemeenten waar het aandeel van de bewoonde conventionele woningen gebouwd vóór 1919 het laagst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715716888,1463142735381,,False,,,True
+b71ca3b1-81b4-43bd-9f52-403a931fec57,Geboorte naar rechtsvorm,True,,94ecc518-2e49-402f-beb9-f8224c747b60,nl,False,1620811711280,1620812494155,,False,,,True
+d198b9d1-2d0b-4186-8f16-35638f73df4b,Maandelijkse stroom van Btw-plichtige ondernemingen volgens economische activiteit laatste 13 maanden,True,,9465cc86-06bd-48ec-a8f5-4907385a5d0b,nl,False,1647869515178,1647945642168,,False,,,True
+0c900dcc-c603-4a0d-93be-b92f6862b9ef,Table from HC25_6 (NL),True,,62495f23-7138-4659-97a9-5ffa72cee1a1,nl,False,1443454620632,1452674940170,,False,,,True
+ed65ded4-797d-4552-ab7d-7dd4e970f609,"Aantal actieve ondernemingen, geboortes en sterftes, aantal werknemers en werkzame personen per rechtsvorm – laatste jaar",True,,4d7ae78d-4a59-4a73-aa07-9b0a8fd09dc9,nl,False,1610527339881,1618822588176,,False,,,True
+1f4eb8cf-f54e-4f9e-ba0d-2a4bd376f9f6,"Armoederisico volgens geslacht en leeftijdsgroepen voor België, 2018",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1560498037749,1560500270583,0.0,False,,,True
+721f712f-be7b-42f9-931c-5c10dc7b0a92,"Aandeel éénoudergezinnen : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695363069,1463142403478,,False,,,True
+a237f1de-d1aa-44c2-bd3a-e3d686c88b35,"Geharmoniseerde index van de consumptieprijzen per groep producten en diensten, 12 laatste maanden",True,,ca6de3b0-e6c1-4c66-8a3a-f608497d5ac5,nl,False,1564034170145,1618472841528,,False,,,True
+c2af606f-bece-421e-832f-4e86dfa78a8e,"Banenverlies voor België en gewesten, laatste 13 maanden",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1560329233873,1674117171099,,False,,,True
+2058c1e3-f589-45f9-ab44-a178640779a5,Table from HC14 (NL),True,,27b67641-f763-4a1c-bfad-deef203ba199,nl,False,1443454620632,1452674448978,,False,,,True
+1a0844ed-0a0a-46fa-be92-391c9195a268,Table from HC20_4 (NL),True,,0af1dcaa-7b4f-4573-9217-dd162c3f605e,nl,False,1443454620632,1452674529884,,False,,,True
+e56bd8f8-b3e2-4ea2-82af-d17069ccec6e,"Aandeel van de bevolking jonger dan 15 jaar : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455689471813,1463141684903,,False,,,True
+4ffab990-eb79-4620-8e12-a777bb0dfe3f,"Kadastrale statistiek van het gebouwenpark, België en gewesten, gebouwen en woongelegenheden, 2022",True,,212fb19d-af30-4cb4-ad07-00ef7b53a96c,nl,False,1665553338344,1665646555138,,False,,,True
+9a42f3f3-4d3c-43a0-9c2b-d7e2d750e5cf,Gemeenten waar het aandeel van de bewoonde conventionele woningen gebouwd vanaf 2001 het hoogst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715412109,1463142735381,,False,,,True
+52943171-7a74-4d5d-8910-bd2c66abd8a7,Table from HC08_1 (NL),True,,edc1059f-9f26-43ec-bb21-8c69e9e34456,nl,False,1443454620632,1452606606709,,False,,,True
+fd0f2a32-a9ce-4e18-91ad-e2250fb8aa59,"De gezondheidsindex sinds 1994 volgens basisjaar, laatste 13 maanden",True,,da09b8ad-46d0-4fff-9f92-b95bcb5e25d7,nl,False,1447067315677,1450362174336,,False,,,True
+092f670c-655e-4287-878e-49daad355418,Gemeenten waar het aandeel van de bevolking met een diploma van het hoger onderwijs het kleinst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455710429309,1463142735381,,False,,,True
+6e7d620a-5968-4439-bb14-9b810de0aa96,Actieve (werkende en werkloze) en inactieve bevolking van 15-64 jaar volgens leeftijdklasse per geslacht voor België en Gewesten,True,,262defc5-1607-42aa-a646-d0b4f6844d4f,nl,False,1549886076485,1549890653266,,False,,,True
+e39fe31c-6191-44ac-ab56-022b45c7a78b,"Structuur van de ondernemingen volgens grootteklasse van tewerkstelling voor de industrie en bouw, 2020",True,,c0b7abc7-f424-48f5-82ff-eba119415643,nl,False,1663838206427,1663838612904,0.0,False,,,True
+2f694fb5-0d5d-467e-afb7-1d224bc4ac3a,Gemiddeld officieel tarief van de aardolieproducten per maand,True,,2cbb788b-2c1b-4499-af1e-2d0c99eea006,nl,False,1552468428520,1552483948391,,False,,,True
+9c5bb87c-d8e1-4d1a-b508-568c92b2c67d,"Werkloosheidsgraad van 15-64-jarigen : België, gewesten, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696691387,1463142782129,,False,,,True
+3b867e74-1d45-4eb2-9ca5-a9ab831d36c9,Table from HC20_1 (NL),True,,afc4b6ff-9218-4693-bd2b-b2ef70d2b720,nl,False,1443454620632,1452674529884,,False,,,True
+4c72eeae-2e3c-4b94-b097-1970c0cda8da,Gemeenten waar het aandeel van de bewoonde conventionele woningen gebouwd vóór 1919 het hoogst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455715635955,1463142735381,,False,,,True
+2f1fbc27-65bb-44d0-8bf9-f57b77d52d99,"Aandeel vijfenzestigplussers : België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455690145655,1463141805708,,False,,,True
+e11c3297-11aa-4f9e-9591-026f39745d14,Bruto elektriciteitsproductie 2021,True,,bb790459-518f-4947-9a46-dc6834de19c7,nl,False,1654077354035,1654082088224,,False,,,True
+988b5b54-e06a-4c16-984d-31757a2b5a18,"Index zonder energetische producten, 3 laatste jaren",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1683792843727,1683792981628,,False,,,True
+3b421ba3-787e-46e4-af26-0ce92dbc36e0,"Structuur van de ondernemingen voor de industrie en bouw, 2020",True,,1eaf593d-5164-49d3-a60b-3ec11486e305,nl,False,1663838095545,1663838165438,0.0,False,,,True
+ff94f449-a1e1-42fe-953b-a5e255fa9b16,Table from HC33_1 (NL),True,,08b9c537-ec70-4cf4-acac-22d4c625e150,nl,False,1443454620632,1452675244776,,False,,,True
+d0da82b6-2ba4-4b00-b095-1c1fa470b48c,"Armoederisico volgens opleidingsniveau voor België, 2018",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1560498049088,1560500270583,0.0,False,,,True
+d9c5b356-6c10-4db4-8aa1-2548c5768f14,"Inflatie gemeten via de geharmoniseerde index van de consumptieprijzen volgens bijzondere aggregaties, laatste 12 maanden",True,,ca6de3b0-e6c1-4c66-8a3a-f608497d5ac5,nl,False,1564034226262,1618472841528,,False,,,True
+cf5c7722-d641-48f8-927a-e8962c67f68f,"Slachtingen van dieren per diersoort voor het Waals Gewest, laatste jaar",True,,3488f928-86af-4067-92db-4fbe45c9a251,nl,False,1511272342928,1511272435577,,False,,,True
+35d2057a-1dac-4f4f-90cd-aadbcf5de80b,Faillissementen - Banenverlies,True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1562130447765,1674117171099,,False,,,True
+32a41fb4-8082-4470-a819-a39b964af225,"Gemiddelde prijs van de verkopen van bouwgronden per gemeente, arrondissement, provincie en gewest,1992, 2000, 2005, 2012, 2013, 2014",True,,5ae14ee3-5b4f-4762-800b-a08a36486eff,nl,True,1447078759231,1472041586521,,False,,,True
+1fa104e7-3fd2-4c49-baab-88fb4cdd889c,"Slachtingen van dieren, per diersoort voor België, laatste 10 beschikbare maanden",True,,ed16cb2c-7118-4980-a82a-64d29cc95c31,nl,False,1616141974417,1616408742897,,False,,,True
+ce3add47-4f5c-4896-9155-2ec7f93dd4c9,Gemeenten met de hoogste werkloosheidsgraad van 15-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455696804046,1463142527006,,False,,,True
+f68b5a9c-9f75-4693-a382-c8081b7711e9,Gemeenten met het laagste aandeel inwoners geboren in een land van de Europese Unie (België uitgezonderd),True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455712791914,1463142677940,,False,,,True
+dc6446f5-eacd-4e5c-a908-69905f260e56,Gemeenten waar het aandeel van de woningen in een gebouw met slechts één woning het hoogst is,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455714892042,1463142735381,,False,,,True
+6bf2b570-823c-4950-94c5-a77744d035e5,"Gewichten van producten en diensten en bijhorende groepen per productcategorie, 1998, 2006, 2008 en 2010",True,,91fdb63f-55a3-412c-b26f-652b5b53955b,nl,False,1447835376378,1450362073575,,False,,,True
+a2f73fb8-fcca-427e-b77a-33059d0b3de0,Table from HC33_3 (NL),True,,e57d3335-991a-41b7-ae28-5fd09058b895,nl,False,1443454620632,1452675244776,,False,,,True
+fa731eff-d5d3-4b35-a244-606aafcda8b2,Table from HC57 (NL),True,,b1c09366-dbfc-4715-865c-d2dd74d9b575,nl,False,1447762932511,1452677360879,,False,,,True
+7f224e61-45b4-4f6c-87f8-b9cc05bcd771,Gemeenten met de kleinste bevolking,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1453815433006,1463142527006,,False,,,True
+b2b59d93-ae27-47db-b2fb-1259c48c1dca,"Investeringen volgens de btw-aangiften per economische activiteit (NACE 2008), België, vanaf 2009 per jaar en trimester",True,,095cb5e3-a398-4372-8f30-3f9d96b3abd7,nl,False,1662098081562,1662105569032,,False,,,True
+203d8bbe-91ed-4cdc-af08-cabe8d6399a6,Table from HC39_3 (NL),True,,001c88bf-5ed1-4451-8f17-4d925037879a,nl,False,1446642051784,1452675525235,,False,,,True
+f8d4c0ce-bec4-4f58-b2a2-4f6b8667ad24,"Officieel tarief van de aardolieproducten in euro, laatste 365 wijzigingen",True,,7c54db88-0bbe-4cfd-a66b-b2c5ee3a668e,nl,False,1617712301395,1617796640828,,False,,,True
+021d12b0-ba70-4fc5-8ad6-27c2b3d63cb9,"Aandeel van de werkende bevolking die buiten de provincie van de woonplaats werkt : België, gewesten, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455711534192,1463141805708,,False,,,True
+5abc23d9-e4b6-4a1c-8137-37a4578ad1b7,"Aandeel inwoners geboren in een land van de EU27 (België uitgezonderd): België, regio’s, provincies",True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455712602219,1463141684903,,False,,,True
+cfa0b300-fd71-48c4-8c50-0ea4a4dc119a,"Armoederisico volgens woningstatus voor België, 2018",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1560498063247,1560500270583,0.0,False,,,True
+57668bdc-6b63-4ab3-8b38-05a4cf2f13f3,"Armoederisico - algemeen, subjectief, voor sociale transfers -, België, 2018",True,,7b94e1eb-47c5-419e-90cc-625748389fb3,nl,False,1560498071197,1560500270583,-10.0,False,,,True
+b66eacb2-d2ca-4265-a8d9-bdc44c30d413,"Consumptieprijsindexen volgens 4 groepen, laatste 13 maanden",True,,a956f4c1-ac3b-4f95-b7bb-a37e705f6446,nl,False,1447065484972,1548845242477,,False,,,True
+0b3adc3c-420b-4117-aa44-7d85f1de5570,"Totaal kadastraal inkomen volgens het Kadasterregister, België en provincies, 1982, 1990, 2000, 2005, 2015, 2020",True,,b5c5eedc-95bf-4927-929e-d6395345a53a,nl,False,1621335905288,1621336026031,,False,,,True
+2a0eb2cc-0719-43dd-8a01-6a60de2ac534,Table from HC39_2 (NL),True,,6a7aecb5-9957-4ea1-adb6-97aef95a7a81,nl,False,1446641169398,1452675525235,,False,,,True
+7ef37f09-4a96-4c4c-8d90-350d3dafb4ac,"Bevolking per burgerlijke staat voor België en gewesten, 2022",True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655295571403,1655360058436,,False,,,True
+13ebbba1-7d83-442c-a4d0-844ba3717d4c,Gemeenten met het hoogste aandeel 15 tot 64 jarige inwoners,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455689881950,1463142591575,,False,,,True
+89060aa2-7bf5-451e-a726-d60fe0046b25,"Computerapparatuur van bedrijven per regio en sector, laatste 4 jaar",True,,b24bd07e-6209-47ed-9822-4a503d5cb0e7,nl,False,1452453577734,1575547738695,,False,,,True
+48f709ec-7852-4da9-a1ec-065464e190b6,"Aantal faillissementen voor België en gewesten, laatste 13 maanden",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1458125332716,1674117171099,,False,,,True
+00bd170a-38c8-47b5-afd5-0fc8f11746df,"Mediaanprijs van de verkopen van villa’s per gemeente, arrondissement, provincie en gewest, 1992, 2000, 2005, 2010, 2015, 2017 en 2018",True,,9a3c3549-08f3-4de0-8d58-f270fcd7beec,nl,False,1630936477423,1630937679407,,False,,,True
+785a01a9-b3aa-4446-b651-dabdfdf2f051,"Consumptieprijsindex, gezondheidsindex en afgevlakte index, laatste 13 maanden",True,,96dcf5c7-46ec-4544-a454-775c472368b3,nl,False,1447074127607,1450367053633,,False,,,True
+377ab085-b1a1-4393-bd26-61d0b5a6fb7d,Gemeenten met de hoogste activiteitsgraad van 15-64-jarigen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455709847631,1463142477741,,False,,,True
+0646675d-d0f1-49a6-af12-19585e32d05e,Table from HC17 (NL),True,,55a5837d-57a6-428f-9b54-62e947db26e9,nl,False,1443454620632,1452674448978,,False,,,True
+6688feb8-d6ce-49b7-a864-7a541af1587f,"Aantal faillissementen per economische activiteit, laatste 13 maanden",True,,afdecf03-f4dd-4e0f-9a8d-faa55be83259,nl,False,1558426604244,1674117171099,,False,,,True
+e9cbb9fa-1422-456b-902b-673e66917702,"Primo-onderwerpingen (btw-registraties per maand, per arrondissement voor de laatste 13 maanden) NO SYNCHRO",True,,a2139242-040a-49b3-aed1-ac3628c7577b,nl,False,1615885562360,1619175476283,,False,,,True
+593e0181-bb9f-4b35-9296-fd689b6e1307,Table from HC46_7 (NL),True,,818a5f52-5311-42fd-988a-b2c132a42f69,nl,False,1446818096908,1452676941221,,False,,,True
+cb721af4-f278-406b-869a-7b7b3701defd,Gemeenten met het hoogste aandeel éénoudergezinnen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455695468586,1463142631860,,False,,,True
+a72ac777-d799-4f42-adc0-eeedc98fc5ea,Table from HC18 (NL),True,,9f4b518b-2278-4f53-be54-0aebde056428,nl,False,1443454620632,1452674448978,,False,,,True
+29eb2dc4-1fff-4fe7-883d-2fcabbfed7ad,Table from HC52 (NL),True,,ed1ddba0-1fe8-41dd-b72b-470dc15ff9fc,nl,False,1447762487848,1452677360879,,False,,,True
+b3530e28-fa51-46a5-b1c5-56c98196f081,"Aantal oprichtingen van btw-plichtige ondernemingen volgens werknemersklasse en plaats maatschappelijke zetel, meest recente jaar",True,,a3ca8eba-26ab-4320-87ea-cac420ada915,nl,False,1447144690570,1664955568181,,False,,,True
+8b82b79e-4696-45ec-a082-254756db6be6,"Actieve (werkende en werkloze) en inactieve bevolking op basis van de Enquête naar de ArbeidsKrachten, per jaar, gewest, leeftijdsklasse en onderwijsniveau, 1999-2016",True,,577a64da-ea7b-4018-aab2-196693cf5dce,nl,False,1531983796733,1531985422920,,False,,,True
+ea08030c-78c2-4045-9f20-e66ada7eed15,Table from HC22 (NL),True,,16af7a7f-03bd-47ba-b532-750ad02660ee,nl,False,1443454620632,1452674654203,,False,,,True
+161080d2-d411-4e40-9a0f-a27db5e2b6e1,Bevolking naar geslacht en leeftijdsgroep - België 2022,True,,65ee413b-3859-4c6f-a847-09b631766fa7,nl,False,1655295459221,1655360058436,,False,,,True
+d136ea24-9d50-421e-871a-7b807d163236,Beschikbaarheid van internet in het huishouden per gewest,True,,d0ffd91e-2c69-4105-90fd-d92c2d4c1bd5,nl,False,1608201942752,1671199927466,0.0,False,,,True
+61d55a29-8b10-4916-9877-0825e875fffc,Table from HC35 (NL),True,,6ec75991-1c08-452a-a7cb-1cfb0a413784,nl,False,1446633292439,1452675356587,,False,,,True
+ba50cc5f-60c8-4662-9edd-94f636f85b8e,Energie gebruiksstatistieken - Globale energiebalans 2021,True,,0e22d3ca-1721-4f98-80a9-df41ab32e72b,nl,False,1671178269251,1671179230813,,False,,,True
+75a909d4-cbba-4a5d-9cd0-0a4d8439193f,Gemeenten met de hoogste afhankelijkheidsgraad van ouderen,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455691109202,1463142477741,,False,,,True
+3faef1fa-ebca-4657-be57-ecf313ad4d04,Gemeenten met de meeste particuliere huishoudens,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1453816500533,1463142553814,,False,,,True
+693108e1-819d-413c-a8f1-d61a7a2962bd,Table from HC25_8 (NL),True,,8da928e1-ef95-4cf5-bc74-c18745d2c391,nl,False,1443454620632,1452674940170,,False,,,True
+8eeb4993-d107-4766-87e8-b3073b9041bf,Gemeenten met het kleinste aandeel van de werkende bevolking die buiten de provincie van de woonplaats werkt,True,,06deb4bd-8f91-49fb-befb-cfb25108b5ae,nl,False,1455711889325,1463142631860,,False,,,True
