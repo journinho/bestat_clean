@@ -34,7 +34,7 @@ for index, row in df.iterrows():
                     raise pd.errors.EmptyDataError("Empty CSV file")
 
                 # Save the data to a CSV file
-                data.to_csv(f"bestat/{id}.csv", index=False)
+                data.to_csv(f"data/{id}.csv", index=False)
                 print(f"File saved for id {id}")
 
             except pd.errors.EmptyDataError:
